@@ -1,8 +1,8 @@
 {
     "description": "Write your thoughts to a journal file without leaving ulauncher",
-    "developer_name": "Christoph Krybus",
+    "developer_name": "by Rachid Boudaoudi",
     "icon": "images/icon.png",
-    "name": "Journal",
+    "name": "My Journal",
     "options": {
         "query_debounce": 0.05
     },
@@ -11,7 +11,7 @@
             "id": "journal_kw",
             "name": "Journal",
             "type": "keyword",
-            "default_value": "j",
+            "default_value": "mj",
             "description": "Write your thoughts to a journal file"
         },
         {
@@ -19,21 +19,9 @@
             "name": "Journal file path",
             "type": "input",
             "default_value": "~/journal.txt",
-            "description": "The location of your journal plain text file"
-        },
-        {
-            "id": "journal_datetime_format",
-            "type": "select",
-            "name": "Journal date time format",
-            "description": "Choose the date time format you prefer",
-            "default_value": "MM/DD/YYYY HH:MM",
-            "options": [
-                "DD.MM.YYYY HH:MM",
-                "DD-MM-YYYY HH:MM",
-                "MM-DD-YYYY HH:MM",
-                "MM/DD/YYYY HH:MM"
-            ]
+            "description": "The location of your journal plain text file" 
         }
+
     ],
     "required_api_version": "^2.0.0"
 }
