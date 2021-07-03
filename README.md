@@ -10,6 +10,9 @@ I use This extansion everyday to write down my thought on stuff i see on the web
 
 ## Demo
 ### The original version 
+[ulancher-journal](https://github.com/ckrybus/ulauncher-journal)
+
+
 ![demo](demo.gif)
 
 Demo Gif created with [Peek](https://github.com/phw/peek)
