@@ -1,7 +1,7 @@
 
 # Ulauncher Journal extension
 
-[Ulauncher](https://ulauncher.io) extension that allows you to quickly write down some thoughts to a text file.
+[Ulauncher](https://ulauncher.io) extension that allows you to quickly write down some thoughts to a text file without a timestamp.
 
 ## Original
 
